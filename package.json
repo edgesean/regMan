@@ -53,5 +53,7 @@
       "commit-msg": "validate-commit-msg"
     }
   },
-  "dependencies": {}
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
 }
